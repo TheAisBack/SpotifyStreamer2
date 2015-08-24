@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="thumbnail_background">#444444</color>
+    <color name="color_primary">#FB8800</color>
+    <color name="color_primary_dark">#AA0011</color>
+    <color name="color_accent">#444444</color>
+    <color name="window_background">#FF5555</color>
+    <color name="notification_color">#EEEEEE</color>
+    <color name="notification_background">#444444</color>
+    <color name="primary_dark">#000000</color>
+</resources>

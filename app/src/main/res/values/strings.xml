@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spotify Streamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search for an Artist</string>
+    <string name="top_ten_tracks">Top 10 Tracks</string>
+    <string name="no_artists_found">Sorry, there were no artists found. Try a different name.</string>
+    <string name="network_error">Sorry there is an error in retrieving data. Please try again.</string>
+    <string name="no_top_tracks">Sorry there are no top tracks found for this Artist.</string>
+    <string name="search_placeholder">Searching Now</string>
+    <string name="track">Track Name</string>
+    <string name="album">Album Name</string>
+</resources>
